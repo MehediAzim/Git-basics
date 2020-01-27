@@ -1,0 +1,14 @@
+1. Initialize local git repository
+	$ git init
+2. Add files to index
+	$ git add <files>
+3. Check the status of working tree
+	$ git status
+4. Commit changes in index [put files in the local repository]
+	$ git commit 
+5. Push to the remote repository from the local repository
+	$ git push
+6. Pull the latest version from remote repository
+	$ git pull
+7. Clone repository into a new directory
+	$ git clone
